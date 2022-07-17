@@ -1,0 +1,11 @@
+DerivedDataCache/
+Intermediate/
+Saved/
+.idea/
+.vs/
+Binaries/
+Source/
+FSD.sln
+DRG_Modding_Tools_22-5-22/
+PackedOutput/
+Build/
